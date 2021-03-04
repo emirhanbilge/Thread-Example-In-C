@@ -26,8 +26,8 @@
                 semaphore, the person can produce a new one. It is locked by Control Person and the ID is changed. The unit is active, uses the ID and reactivates 
                  the personu. This is the basis of the mechanism. The local semaphore is in the name of 'STAFF' in Thredim to make if hands properly and print prints properly.
     
-    Hocam İngilizce ve Türkçeleri de yanlarında yazmakta fakat Türkçe olarak eğer ingilizcem yetmediyse diye yazma gereği duydum.Teşekkürler
-                                                                                            Emirhan Bilge Bulut (EBB)  05.01.2020 2017510020
+
+                                                                                            Emirhan Bilge Bulut (EBB)  05.01.2020 
 */
 
 #define HowManyPeople 150 // Number of People
